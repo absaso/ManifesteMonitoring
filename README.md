@@ -1,6 +1,6 @@
 # ManifesteMonitoring
 
-Développement d'un outil Manifeste Monitoring mis en place afin de permettre aux agents du Système d’Informations Communautaires (SIC) d’avoir un meilleur accès aux données concernant les manifestes, facilitant ainsi leur suivi. 
+Développement d'un outil Manifeste Monitoring mis en place afin de permettre aux agents du Système d’Informations Communautaires (SIC) de l'entreprise d’avoir un meilleur accès aux données concernant les manifestes, facilitant ainsi leur suivi. 
 L’outil est une application web offrant différentes fonctionnalités notamment:
 - le suivi des manifestes transmis journalièrement
 - une visualisation des statistiques concernant le nombre de manifestes et d’articles transmis globalement par jour et aussi par entreprises
